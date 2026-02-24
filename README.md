@@ -1,4 +1,4 @@
-<img width="375" height="25" alt="image" src="https://github.com/user-attachments/assets/4c8d02a0-6f61-4d81-9f2a-039699a3ba49" /><img width="375" height="25" alt="image" src="https://github.com/user-attachments/assets/e81c5f1d-b099-40d1-9a4c-a3627a88b7e3" /># Store-Sales-Dataset-Analysis
+# Store-Sales-Dataset-Analysis
 Data analysis project exploring store sales data to identify trends, customer behavior, and business insights using data visualization and statistical analysis.
 
 # Store Sales Dataset Analysis
