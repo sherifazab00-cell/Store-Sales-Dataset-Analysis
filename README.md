@@ -12,9 +12,9 @@ The goal is to use data analysis techniques to improve business strategies and i
 ## Team Members
 - Sherif Azab Ibrahim
 - Mahmoud Mahmoud Aboeleneen
--Mohammed Abdullah Hussein
--Marwa Hanafy Mahmoud Mohammed
--Nermeen Mofreh Fawzy
+- Mohammed Abdullah Hussein
+- Marwa Hanafy Mahmoud Mohammed
+- Nermeen Mofreh Fawzy
   
 
 ## Project Plan
